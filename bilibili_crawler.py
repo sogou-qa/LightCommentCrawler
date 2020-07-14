@@ -6,7 +6,6 @@ import json
 import os
 import sys
 import time
-from sogou_utils.file import mkdir
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -95,12 +94,12 @@ class BilibiliCrawler:
 
     def run_crawler(self):
         corpus_dir = 'data/bilibili'
-        mkdir(corpus_dir)
+        os.mkdir(corpus_dir)
 
         category_list = self.bilibili_config['category_list']
         for category in category_list:
             category_vedio_dir = os.path.join(corpus_dir, category['name'])
-            mkdir(category_vedio_dir)
+            os.mkdir(category_vedio_dir)
             vedio_url_info_path = os.path.join(category_vedio_dir, 'vedio_url_info.json')
             category_vedio_url_dict = dict()
             if os.path.exists(vedio_url_info_path):

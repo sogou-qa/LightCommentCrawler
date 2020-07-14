@@ -5,7 +5,7 @@ import crawler
 import json
 import os
 import sys
-from sogou_utils.file import mkdir
+
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -62,12 +62,12 @@ class TouTiaoCrawler:
 
     def run_crawler(self):
         corpus_dir = 'data/toutiao'
-        mkdir(corpus_dir)
+        os.mkdir(corpus_dir)
 
         category_list = self.toutiao_config['category_list']
         for category in category_list:
             category_article_dir = os.path.join(corpus_dir, category['name'])
-            mkdir(category_article_dir)
+            os.mkdir(category_article_dir)
             article_url_info_path = os.path.join(category_article_dir, 'article_url_info.json')
             category_article_url_dict = dict()
             if os.path.exists(article_url_info_path):

@@ -6,7 +6,6 @@ import json
 import os
 import sys
 import time
-from sogou_utils.file import mkdir\
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -98,12 +97,12 @@ class TaobaoCrawler:
     def run_crawler(self):
         # 创建文件夹taobao
         corpus_dir = 'data/taobao'
-        mkdir(corpus_dir)
+        os.mkdir(corpus_dir)
         # 获取爬取taobao的类别
         category_list = self.taobao_config['category_list']
         for category in category_list:
             category_goods_dir = os.path.join(corpus_dir, category['name'])
-            mkdir(category_goods_dir)  # 创建类别的文件夹
+            os.mkdir(category_goods_dir)  # 创建类别的文件夹
             goods_url_path = os.path.join(category_goods_dir, 'goods_url.json')
             category_goods_url_dict = dict()
             if os.path.exists(goods_url_path):
