@@ -23,4 +23,4 @@ weibo_password = ""  # 默认：password
 
 爬取数据示例：
 
-<img src="https://github.com/zuoshigang/LightCommentCrawler/blob/br/2.x/images/data_get.gif" alt="show" />
+<img src="https://github.com/zuoshigang/LightCommentCrawler/blob/master/data_get.gif" alt="show"/>
