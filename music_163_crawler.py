@@ -6,7 +6,6 @@ import json
 import os
 import sys
 import time
-from sogou_utils.file import mkdir
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -84,12 +83,12 @@ class Music163Crawler:
 
     def run_crawler(self):
         corpus_dir = 'data/music'
-        mkdir(corpus_dir)
+        os.mkdir(corpus_dir)
 
         category_list = self.music_config['category_list']
         for category in category_list:
             category_song_dir = os.path.join(corpus_dir, category['name'])
-            mkdir(category_song_dir)
+            os.mkdir(category_song_dir)
             song_url_info_path = os.path.join(category_song_dir, 'song_url_info.json')
             category_song_url_dict = dict()
             if os.path.exists(song_url_info_path):
