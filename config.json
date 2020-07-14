@@ -1,0 +1,202 @@
+{
+  "toutiao":
+  {
+    "category_list":
+    [
+      {"name": "科技", "url": "https://www.toutiao.com/ch/news_tech/", "article_number": 200},
+      {"name": "娱乐", "url": "https://www.toutiao.com/ch/news_entertainment/", "article_number": 200},
+      {"name": "游戏", "url": "https://www.toutiao.com/ch/news_game/", "article_number": 200},
+      {"name": "体育", "url": "https://www.toutiao.com/ch/news_sports/", "article_number": 200},
+      {"name": "汽车", "url": "https://www.toutiao.com/ch/news_car/", "article_number": 200},
+      {"name": "财经", "url": "https://www.toutiao.com/ch/news_finance/", "article_number": 200},
+      {"name": "军事", "url": "https://www.toutiao.com/ch/news_military/", "article_number": 200},
+      {"name": "时尚", "url": "https://www.toutiao.com/ch/news_fashion/", "article_number": 200},
+      {"name": "探索", "url": "https://www.toutiao.com/ch/news_discovery/", "article_number": 200},
+      {"name": "养生", "url": "https://www.toutiao.com/ch/news_regimen/", "article_number": 200},
+      {"name": "历史", "url": "https://www.toutiao.com/ch/news_history/", "article_number": 200},
+      {"name": "国际", "url": "https://www.toutiao.com/ch/news_world/", "article_number": 200},
+      {"name": "旅游", "url": "https://www.toutiao.com/ch/news_travel/", "article_number": 200},
+      {"name": "育儿", "url": "https://www.toutiao.com/ch/news_baby/", "article_number": 200},
+      {"name": "美文", "url": "https://www.toutiao.com/ch/news_essay/", "article_number": 200},
+      {"name": "美食", "url": "https://www.toutiao.com/ch/news_food/", "article_number": 200}
+    ]
+  },
+"zhihu":
+  {
+    "category_list":
+     [
+       {"name": "电影", "url": "https://www.zhihu.com/search?type=content&q=%E7%94%B5%E5%BD%B1", "question_number": 10}
+,
+      {"name": "心理学", "url": "https://www.zhihu.com/search?type=content&q=%E5%BF%83%E7%90%86%E5%AD%A6", "question_number": 10}
+,
+      {"name": "旅行", "url": "https://www.zhihu.com/search?type=content&q=%E6%97%85%E8%A1%8C", "question_number": 10}
+,
+      {"name": "美食", "url": "https://www.zhihu.com/search?type=content&q=%E7%BE%8E%E9%A3%9F", "question_number": 10}
+,
+      {"name": "健身", "url": "https://www.zhihu.com/search?type=content&q=%E5%81%A5%E8%BA%AB", "question_number": 10}
+,
+      {"name": "互联网", "url": "https://www.zhihu.com/search?type=content&q=%E4%BA%92%E8%81%94%E7%BD%91", "question_number": 10}
+,
+      {"name": "时尚", "url": "https://www.zhihu.com/search?type=content&q=%E6%97%B6%E5%B0%9A", "question_number": 10}
+,
+      {"name": "创业", "url": "https://www.zhihu.com/search?type=content&q=%E5%88%9B%E4%B8%9A", "question_number": 10}
+,
+      {"name": "设计", "url": "https://www.zhihu.com/search?type=content&q=%E8%AE%BE%E8%AE%A1", "question_number": 10}
+,
+      {"name": "金融", "url": "https://www.zhihu.com/search?type=content&q=%E9%87%91%E8%9E%8D", "question_number": 10}
+,
+      {"name": "教育", "url": "https://www.zhihu.com/search?type=content&q=%E6%95%99%E8%82%B2", "question_number": 10}
+,
+      {"name": "家居", "url": "https://www.zhihu.com/search?type=content&q=%E5%AE%B6%E5%B1%85", "question_number": 10}
+,
+      {"name": "法律", "url": "https://www.zhihu.com/search?type=content&q=%E6%B3%95%E5%BE%8B", "question_number": 10}
+,
+      {"name": "医学", "url": "https://www.zhihu.com/search?type=content&q=%E5%8C%BB%E5%AD%A6", "question_number": 10}
+,
+      {"name": "生活", "url": "https://www.zhihu.com/search?type=content&q=%E7%94%9F%E6%B4%BB", "question_number": 10}
+,
+      {"name": "阅读", "url": "https://www.zhihu.com/search?type=content&q=%E9%98%85%E8%AF%BB", "question_number": 10}
+,
+      {"name": "音乐", "url": "https://www.zhihu.com/search?type=content&q=%E9%9F%B3%E4%B9%90", "question_number": 10}
+,
+      {"name": "摄影", "url": "https://www.zhihu.com/search?type=content&q=%E6%91%84%E5%BD%B1", "question_number": 10}
+,
+      {"name": "健康", "url": "https://www.zhihu.com/search?type=content&q=%E5%81%A5%E5%BA%B7", "question_number": 10}
+,
+      {"name": "历史", "url": "https://www.zhihu.com/search?type=content&q=%E5%8E%86%E5%8F%B2", "question_number": 10}
+,
+      {"name": "政治", "url": "https://www.zhihu.com/search?type=content&q=%E6%94%BF%E6%B2%BB", "question_number": 10}    ]
+  },
+    "weibo":
+  {
+    "category_list":
+     [
+       {"name": "电影", "url": "https://d.weibo.com/1087030002_2975_2012_0", "page_number": 2},
+       {"name": "美女", "url": "https://d.weibo.com/1087030002_2975_2006_0", "page_number": 2},
+       {"name": "时尚", "url": "https://d.weibo.com/1087030002_2975_2006_0", "page_number": 2},
+       {"name": "音乐", "url": "https://d.weibo.com/1087030002_2975_2011_0", "page_number": 2},
+       {"name": "动漫", "url": "https://d.weibo.com/1087030002_2975_2001_0", "page_number": 2},
+       {"name": "游戏", "url": "https://d.weibo.com/1087030002_2975_2019_0", "page_number": 2},
+       {"name": "星座", "url": "https://d.weibo.com/1087030002_2975_2010_0", "page_number": 2},
+       {"name": "搞笑", "url": "https://d.weibo.com/1087030002_2975_2004_0", "page_number": 2},
+       {"name": "情感两性", "url": "https://d.weibo.com/1087030002_2975_2007_0", "page_number": 2},
+       {"name": "运动健身", "url": "https://d.weibo.com/1087030002_2975_2020_0", "page_number": 2},
+       {"name": "体育", "url": "https://d.weibo.com/1087030002_2975_1002_0", "page_number": 2},
+       {"name": "萌宠", "url": "https://d.weibo.com/1087030002_2975_2002_0", "page_number": 2},
+       {"name": "美食", "url": "https://d.weibo.com/1087030002_2975_2023_0", "page_number": 2},
+       {"name": "旅游", "url": "https://d.weibo.com/1087030002_2975_5003_0", "page_number": 2},
+       {"name": "摄影", "url": "https://d.weibo.com/1087030002_2975_2015_0", "page_number": 2},
+       {"name": "历史", "url": "https://d.weibo.com/1087030002_2975_6005_0", "page_number": 2},
+       {"name": "军事", "url": "https://d.weibo.com/1087030002_2975_2026_0", "page_number": 2},
+       {"name": "科学", "url": "https://d.weibo.com/1087030002_2975_5009_0", "page_number": 2},
+       {"name": "数码", "url": "https://d.weibo.com/1087030002_2975_2009_0", "page_number": 2},
+       {"name": "电视剧", "url": "https://d.weibo.com/1087030002_2975_2021_0", "page_number": 2},
+       {"name": "医疗", "url": "https://d.weibo.com/1087030002_2975_2017_0", "page_number": 2},
+       {"name": "法律", "url": "https://d.weibo.com/1087030002_2975_5013_0", "page_number": 2},
+       {"name": "设计", "url": "https://d.weibo.com/1087030002_2975_5015_0", "page_number": 2},
+       {"name": "宗教", "url": "https://d.weibo.com/1087030002_2975_5014_0", "page_number": 2},
+       {"name": "育儿", "url": "https://d.weibo.com/1087030002_2975_2018_0", "page_number": 2},
+       {"name": "财经", "url": "https://d.weibo.com/1087030002_2975_5001_0", "page_number": 2},
+       {"name": "美妆", "url": "https://d.weibo.com/1087030002_2975_2014_0", "page_number": 2},
+       {"name": "房产家装", "url": "https://d.weibo.com/1087030002_2975_5005_0", "page_number": 2},
+       {"name": "IT互联网", "url": "https://d.weibo.com/1087030002_2975_5002_0", "page_number": 2},
+       {"name": "教育", "url": "https://d.weibo.com/1087030002_2975_2016_0", "page_number": 2},
+       {"name": "艺术", "url": "https://d.weibo.com/1087030002_2975_2024_0", "page_number": 2},
+       {"name": "汽车", "url": "https://d.weibo.com/1087030002_2975_5006_0", "page_number": 2},
+       {"name": "婚庆", "url": "https://d.weibo.com/1087030002_2975_5011_0", "page_number": 2}
+     ]
+  },
+      "taobao":
+  {
+    "category_list":
+     [
+       {"name": "女装", "url": "https://s.taobao.com/search?q=女装&sort=sale-desc", "article_number": 10},
+       {"name": "男装", "url": "https://s.taobao.com/search?q=男装&sort=sale-desc", "article_number": 10},
+       {"name": "内衣", "url": "https://s.taobao.com/search?q=内衣&sort=sale-desc", "article_number": 10},
+       {"name": "女鞋", "url": "https://s.taobao.com/search?q=女鞋&sort=sale-desc", "article_number": 10},
+       {"name": "男鞋", "url": "https://s.taobao.com/search?q=男鞋&sort=sale-desc", "article_number": 10},
+       {"name": "箱包", "url": "https://s.taobao.com/search?q=箱包&sort=sale-desc", "article_number": 10},
+       {"name": "童装", "url": "https://s.taobao.com/search?q=童装&sort=sale-desc", "article_number": 10},
+       {"name": "玩具", "url": "https://s.taobao.com/search?q=玩具&sort=sale-desc", "article_number": 10},
+       {"name": "孕产", "url": "https://s.taobao.com/search?q=孕产&sort=sale-desc", "article_number": 10},
+       {"name": "家电", "url": "https://s.taobao.com/search?q=家电&sort=sale-desc", "article_number": 10},
+       {"name": "美妆", "url": "https://s.taobao.com/search?q=美妆&sort=sale-desc", "article_number": 10},
+       {"name": "洗护", "url": "https://s.taobao.com/search?q=洗护&sort=sale-desc", "article_number": 10},
+       {"name": "保健品", "url": "https://s.taobao.com/search?q=保健品&sort=sale-desc", "article_number": 10},
+       {"name": "手机", "url": "https://s.taobao.com/search?q=手机&sort=sale-desc", "article_number": 10},
+       {"name": "电脑", "url": "https://s.taobao.com/search?q=电脑&sort=sale-desc", "article_number": 10},
+       {"name": "珠宝", "url": "https://s.taobao.com/search?q=珠宝&sort=sale-desc", "article_number": 10},
+       {"name": "手表", "url": "https://s.taobao.com/search?q=手表&sort=sale-desc", "article_number": 10},
+       {"name": "眼镜", "url": "https://s.taobao.com/search?q=眼镜&sort=sale-desc", "article_number": 10},
+       {"name": "运动", "url": "https://s.taobao.com/search?q=运动&sort=sale-desc", "article_number": 10},
+       {"name": "户外", "url": "https://s.taobao.com/search?q=户外&sort=sale-desc", "article_number": 10},
+       {"name": "乐器", "url": "https://s.taobao.com/search?q=乐器&sort=sale-desc", "article_number": 10},
+       {"name": "游戏", "url": "https://s.taobao.com/search?q=游戏&sort=sale-desc", "article_number": 10},
+       {"name": "动漫", "url": "https://s.taobao.com/search?q=动漫&sort=sale-desc", "article_number": 10},
+       {"name": "影视", "url": "https://s.taobao.com/search?q=影视&sort=sale-desc", "article_number": 10},
+       {"name": "美食", "url": "https://s.taobao.com/search?q=美食&sort=sale-desc", "article_number": 10},
+       {"name": "生鲜", "url": "https://s.taobao.com/search?q=生鲜&sort=sale-desc", "article_number": 10},
+       {"name": "零食", "url": "https://s.taobao.com/search?q=零食&sort=sale-desc", "article_number": 10},
+       {"name": "鲜花", "url": "https://s.taobao.com/search?q=鲜花&sort=sale-desc", "article_number": 10},
+       {"name": "宠物", "url": "https://s.taobao.com/search?q=宠物&sort=sale-desc", "article_number": 10},
+       {"name": "农资", "url": "https://s.taobao.com/search?q=农资&sort=sale-desc", "article_number": 10},
+       {"name": "工具", "url": "https://s.taobao.com/search?q=工具&sort=sale-desc", "article_number": 10},
+       {"name": "装修", "url": "https://s.taobao.com/search?q=装修&sort=sale-desc", "article_number": 10},
+       {"name": "家居", "url": "https://s.taobao.com/search?q=家居&sort=sale-desc", "article_number": 10},
+       {"name": "家饰", "url": "https://s.taobao.com/search?q=家饰&sort=sale-desc", "article_number": 10},
+       {"name": "家纺", "url": "https://s.taobao.com/search?q=家纺&sort=sale-desc", "article_number": 10},
+       {"name": "汽车", "url": "https://s.taobao.com/search?q=汽车&sort=sale-desc", "article_number": 10},
+       {"name": "二手车", "url": "https://s.taobao.com/search?q=二手车&sort=sale-desc", "article_number": 10},
+       {"name": "汽车用品", "url": "https://s.taobao.com/search?q=汽车用品&sort=sale-desc", "article_number": 10},
+       {"name": "办公", "url": "https://s.taobao.com/search?q=办公&sort=sale-desc", "article_number": 10},
+       {"name": "DIY", "url": "https://s.taobao.com/search?q=DIY&sort=sale-desc", "article_number": 10},
+       {"name": "五金电子", "url": "https://s.taobao.com/search?q=五金电子&sort=sale-desc", "article_number": 10},
+       {"name": "百货", "url": "https://s.taobao.com/search?q=百货&sort=sale-desc", "article_number": 10},
+       {"name": "餐厨", "url": "https://s.taobao.com/search?q=餐厨&sort=sale-desc", "article_number": 10},
+       {"name": "家庭保健", "url": "https://s.taobao.com/search?q=家庭保健&sort=sale-desc", "article_number": 10},
+       {"name": "学习", "url": "https://s.taobao.com/search?q=学习&sort=sale-desc", "article_number": 10},
+       {"name": "卡券", "url": "https://s.taobao.com/search?q=卡券&sort=sale-desc", "article_number": 10}
+     ]
+  },
+       "bilibili":
+    {
+      "category_list":
+      [
+        {"name": "全站", "url": "https://www.bilibili.com/ranking/all/0/0/3", "vedio_number": 100},
+        {"name": "动画", "url": "https://www.bilibili.com/ranking/all/1/0/3", "vedio_number": 100},
+        {"name": "国创相关", "url": "https://www.bilibili.com/ranking/all/168/0/3", "vedio_number": 100},
+        {"name": "音乐", "url": "https://www.bilibili.com/ranking/all/3/0/3", "vedio_number": 100},
+        {"name": "舞蹈", "url": "https://www.bilibili.com/ranking/all/129/0/3", "vedio_number": 100},
+        {"name": "游戏", "url": "https://www.bilibili.com/ranking/all/4/0/3", "vedio_number": 100},
+        {"name": "科技", "url": "https://www.bilibili.com/ranking/all/36/0/3", "vedio_number": 100},
+        {"name": "数码", "url": "https://www.bilibili.com/ranking/all/188/0/3", "vedio_number": 100},
+        {"name": "生活", "url": "https://www.bilibili.com/ranking/all/160/0/3", "vedio_number": 100},
+        {"name": "鬼畜", "url": "https://www.bilibili.com/ranking/all/119/0/3", "vedio_number": 100},
+        {"name": "时尚", "url": "https://www.bilibili.com/ranking/all/155/0/3", "vedio_number": 100},
+        {"name": "娱乐", "url": "https://www.bilibili.com/ranking/all/5/0/3", "vedio_number": 100},
+        {"name": "影视", "url": "https://www.bilibili.com/ranking/all/181/0/3", "vedio_number": 100}
+      ]
+    },
+      "music":
+    {
+      "category_list":
+      [
+        {"name":"云音乐热歌榜", "url": "https://music.163.com/#/discover/toplist?id=3778678", "song_number": 200}
+      ]
+    },
+      "weibo_hot":
+      {
+       "category_list":
+        [
+          {"name": "微博热门", "url": "https://weibo.com/", "weibo_number": 1000}
+        ]
+      },
+        "hot_words":
+      {
+       "category_list":
+        [
+          {"name": "微博热词", "url": "https://d.weibo.com/231650?cfs=920&Pl_Discover_Pt6Rank__4_filter=&Pl_Discover_Pt6Rank__4_", "weibo_number": 100},
+          {"name": "头条热词", "url": "https://www.toutiao.com/ch/news_hot/", "title_number": 100}
+        ]
+      }
+}
