@@ -9,7 +9,7 @@
 
 ### 配置爬虫
 - 电脑端安装Chrome浏览器
-- 下载对应自己chrome版本的chromedriver,下载完毕后放到当前目录下，下载网址http://npm.taobao.org/mirrors/chromedriver/
+- 下载对应自己chrome版本的chromedriver，下载完毕后放到当前目录下，下载网址http://npm.taobao.org/mirrors/chromedriver/
 - 创建data文件夹，用于存放爬取的数据
 
 ### 爬取数据
